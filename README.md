@@ -49,7 +49,7 @@ True
 
 ### Data Structure
 
-- Tree
+- Binary Tree
 
 ### Init
 
